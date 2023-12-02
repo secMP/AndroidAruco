@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "AndroidAruco"
 include(":app")
+include(":opencv")
